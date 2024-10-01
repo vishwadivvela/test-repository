@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
  
-	// java application latest code running
+	// running
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
