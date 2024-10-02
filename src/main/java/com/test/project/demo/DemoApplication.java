@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
  
-	// main method
+	// without main method code can be compiled but cannot be executed
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
