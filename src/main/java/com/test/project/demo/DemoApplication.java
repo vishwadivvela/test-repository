@@ -8,7 +8,7 @@ public class DemoApplication {
  
 	
 	public static void main(String[] args) {
-		// run application
+		// run application successfully
 		SpringApplication.run(DemoApplication.class, args);
 		
 	}
